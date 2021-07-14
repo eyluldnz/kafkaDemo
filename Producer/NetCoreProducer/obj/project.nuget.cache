@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "78USk9ocURCJlSXyPc5WlK1r0gkBJNJW13FSCKIeMEtDY4EanH7hQxPrUPSeU7+HP8rVVR9WwxSVvinW4MReWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eyluldeniz.can\\Desktop\\KafkaDemo\\Producer\\NetCoreProducer\\NetCoreProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eyluldeniz.can\\.nuget\\packages\\confluent.kafka\\1.0.0-beta2\\confluent.kafka.1.0.0-beta2.nupkg.sha512",
+    "C:\\Users\\eyluldeniz.can\\.nuget\\packages\\librdkafka.redist\\1.0.0-pre1\\librdkafka.redist.1.0.0-pre1.nupkg.sha512",
+    "C:\\Users\\eyluldeniz.can\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\eyluldeniz.can\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
